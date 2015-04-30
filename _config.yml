@@ -1,0 +1,4 @@
+url: http://aes256ru.github.io
+permalink: pretty
+highlighter: pygments
+exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
